@@ -1,0 +1,6 @@
+bin/
+profiles/*
+!profiles/.gitkeep
+*.prof
+*.test
+trace.out
